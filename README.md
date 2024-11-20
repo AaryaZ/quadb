@@ -1,16 +1,56 @@
-# cinesearch
+<div align="center">
+<img src="https://github.com/AaryaZ/quadb/blob/master/screenshots/header.png" width="100%">
 
-A new Flutter project.
+# CineSearch - Discover Movies & Web Series with Ease: Stream the Best Content from TVMaze!
+---
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+<center>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Browse Trending Web Series**: Discover the latest trending web series with real-time updates. <br/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Search Web Series**: Quickly search for your favorite web series by name or genre. <br/>
+
+**Show Details**: View detailed information, including synopses, cast, and episode lists. <br/>
+
+**Watchlist**: Save your favorite web series to a personal watchlist for easy access. <br/>
+
+</center>
+
+
+---
+
+## Screenshots
+
+| ![Screenshot 1](https://github.com/AaryaZ/quadb/blob/master/screenshots/p1.png) | ![Screenshot 2](https://github.com/AaryaZ/quadb/blob/master/screenshots/p2.png) | ![Screenshot 3](https://github.com/AaryaZ/quadb/blob/master/screenshots/p3.png) | ![Screenshot 4](https://github.com/AaryaZ/quadb/blob/master/screenshots/p4.png) |
+|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+
+
+---
+</div>
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   https://github.com/AaryaZ/quadb.git
+   cd cinesearch
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the app**:
+   ```bash
+   flutter run
+   ```
+
+[<img src="https://github.com/AaryaZ/quadb/blob/master/screenshots/tv.png" alt="TVMaze API" height="40">](https://github.com/AaryaZ/quadb/blob/master/screenshots/tv.png)
+
+
+---
+
